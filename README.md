@@ -1,4 +1,4 @@
-# ASUS-S4100V-i5-8250U-OpenCore
+# ASUS-S4100V-i5-8250U OpenCore
 ## 华硕S4100VN 黑苹果EFI OpenCore  
 配置：i5 8250U+MX150  
 下载EFI：https://github.com/321restart/ASUS-S4100VN-i5-8250U-OpenCore/releases/  
